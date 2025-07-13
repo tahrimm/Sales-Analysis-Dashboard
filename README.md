@@ -12,22 +12,22 @@ This project is a fully interactive **Sales & Profit Dashboard** developed in **
 
 ## Features
 
-- ** KPI Cards** – Instant insight into:
+- **KPI Cards**  – Instant insight into:
   - Revenue, Quantity, Margin
 
-- ** Revenue Trend Visualization **  
+- **Revenue Trend Visualization**  
   Monthly comparison of revenue vs. previous year with dynamic profit margin overlay.
 
-- ** Top Product Contribution**  
+- **Top Product Contribution**  
   Products ranked by revenue share (%), highlighting key performers.
 
-- ** Customer Segmentation Table**  
+- **Customer Segmentation Table**  
   Profit margin %, revenue %, and detailed breakdown by customer.
 
-- ** Profit Margin Target**  
+- **Profit Margin Target**  
   Use the slider to dynamically analyze performance vs. margin targets.
 
-- ** Time Slicers**  
+- **Time Slicers**  
   Filter insights by year and month (e.g., Jan 2020 – Jun 2020).
 
 ---
@@ -35,11 +35,11 @@ This project is a fully interactive **Sales & Profit Dashboard** developed in **
 
 ## Data Model
 
-![Data Model](./Model view.PNG) 
+![Data Model](./model_view.PNG) 
 
 ---
 
-## 📈 Use Case
+##  Use Case
 
 Ideal for:
 - Sales and Marketing departments to monitor targets
