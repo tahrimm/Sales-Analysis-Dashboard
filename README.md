@@ -6,7 +6,7 @@ This project is a fully interactive **Sales & Profit Dashboard** developed in **
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./Dasshboard View.PNG)
+![Dashboard Screenshot](./Dassboard view.PNG)
 
 ---
 
